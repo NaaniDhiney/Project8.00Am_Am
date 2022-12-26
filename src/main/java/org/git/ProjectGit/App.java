@@ -18,5 +18,7 @@ public class App
         System.out.println( "Hello Wo!" );
         System.out.println( "Hello Wol!" );
         
+        System.out.println("hai ");
+        
     }
 }
